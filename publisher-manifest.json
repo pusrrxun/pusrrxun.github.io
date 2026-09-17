@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "befe95aa18266ede7664f3cd",
+  "owner": "pusrrxun",
+  "repo": "pusrrxun.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "585b74787961e9bb60af2719",
+      "a": "花云(FlowerCloud)",
+      "b": "官网",
+      "entity": "花云(FlowerCloud)",
+      "brand": "官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ba4c110e7e3ace9b724e3c4fb5b0e79f3268a05d27fb6b81e0ca280d207c4d0a",
+      "content": {
+        "primary_entity": "花云(FlowerCloud)",
+        "keyword1": "花云(FlowerCloud)",
+        "keyword2": "官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "依据常用设备选择对应客户端，再导入订阅信息即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，完成订阅配置后即可连接使用。",
+          "AI_CLOSING_TITLE": "选好套餐即可上手",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应轻量浏览、多设备流媒体与团队协作场景。基础版适合单人日常使用，旗舰版增加设备数与专线节点，团队版面向高流量多终端环境。各档均支持按月或按年付费，可按设备数量和月流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个角度挑选合适的套餐。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人日常浏览，旗舰版与团队版覆盖多设备与流媒体场景。",
+          "AI_FEATURE_TEXT_2": "按手机、电脑、平板等实际在线设备数量选择对应档位，避免超出限制。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付降低长期使用成本，可按使用周期自由切换。",
+          "AI_FEATURE_TITLE_1": "按用途选版本",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "从挑选套餐到完成订阅导入，按设备类型逐步配置即可。",
+          "AI_GUIDE_TITLE": "配置订阅步骤",
+          "AI_HERO_INTRO": "花云(FlowerCloud)提供基础版、旗舰版与团队版三档订阅方案，覆盖从单人浏览到团队多设备使用的不同场景。按流量、设备数量与线路需求选择套餐，再配合设备客户端完成订阅配置，即可连接使用。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备场景",
+          "AI_HIGHLIGHT_1": "基础版适合单人轻量使用",
+          "AI_HIGHLIGHT_2": "旗舰版满足多设备流媒体需求",
+          "AI_HIGHLIGHT_3": "团队版支持多终端高流量场景",
+          "AI_PLANS_INTRO": "根据日常在线设备数量与月流量需求，对比基础版、旗舰版和团队版的差异后选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先明确常用设备数量与月流量需求，在基础版、旗舰版、团队版之间选定合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与线路类型，确认能覆盖当前所有终端。",
+          "AI_STEP_TEXT_3": "按照对应设备客户端的配置说明导入订阅信息，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "花云多档订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花云套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "看设备数量和流量需求。三台以内选基础版，五台以内选旗舰版，团队多设备协作用团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持三台，旗舰版支持五台，团队版支持二十台同时在线，超出需升级或调整设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "各档套餐都有月付和年付方案，年付折算月均价更低，适合打算长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅配置怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "先确认设备系统与对应客户端，再按客户端文档导入订阅链接或配置信息，完成后重启客户端生效。",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "可在当前计费周期内升级套餐或等待下个周期重置，按实际用量选择更高档位更省事。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bb68dbf8c74575ebd9a54de1f9830b1149e23371cb06ccff314ae77a217d7636",
+    "sitemap.xml": "11a3668c83dbd58f6fc7361d044de02eed5a1e15a9d92c4856d161842f037089",
+    "robots.txt": "8b4720dbde36017088473d8d0aec9699d9d905053baa0cfee060244faa32bb8c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d5e87f676dc0700fcc363b5498b039f62f01882254f17cfc725015a2dc7ef1e9"
+}
